@@ -1,4 +1,4 @@
-# A Quick Introduction
+## Self Introduction
 - 👋 Hi, I’m Francis
 - 🌏 I'm from Hong Kong 
 - 🎓 I graduated from business school and am currently working as a product developer
