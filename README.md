@@ -3,8 +3,8 @@
 - 🌏 I'm from Hong Kong 
 - 🎓 I graduated from business school and am currently working as a product developer
 - 🌱 I’m currently learning to develop my first site using basic HTML, CSS and Javascript
-- 🤢 I've been struggling from procrastination, feeling lost about where to start, and just easily be distracted by absolutely anything
-- 😍 I love video games such as AOE2 and Stardew Valley, and shows like B99
+- 🤢 I've been struggling from procrastination, feeling lost about where to start, and just get distracted easily by absolutely anything
+- 😍 I love video games such as AOE2, Stardew Valley and an upcoming title "Becastled"; and shows like B99
 - 🤡 Need to keep reminding myself that any big achievements come from small steps one day at a time
 
 <!---
