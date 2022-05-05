@@ -1,7 +1,6 @@
 ## Why hello there, I'm Francis!
 
-# I'm an aspired Web Developer!
-
+**I'm aspired to be a Web Developer!**
 - 💻 I’m currently learning to develop my first site **Frankly Speaking** with basic HTML, CSS and Javascript
 - ✨ I hope to document my process of learning to code, and inspire others to try
 - 🕹️ Video games: AOE2, Stardew Valley and an upcoming title "Becastled"
