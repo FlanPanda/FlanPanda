@@ -9,9 +9,9 @@
 - 📚 Coding helps me better understand semantics and structures, which ultimately makes me a more practical designer
 
 ## About myself
-- 🎓 Work ethics: I am not here to find problems, but to solve them. 
+- 🎓 Work ethics: **We work to find solutions, not problems.**
 - 🕹️ Video games: AOE2, Stardew Valley and an upcoming title "Becastled"
-- 🎬 Shows: B99 and Arcane 
+- 🎬 Shows: B99 (❤️ the humor) and Arcane (❤️ the story and visuals)
 
 #### Connect with me: &nbsp; [<img alt="LinkedIn: Francis Yip" height="20px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/francisyip98/)
 
