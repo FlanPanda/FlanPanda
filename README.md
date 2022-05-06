@@ -11,7 +11,7 @@
 ## About myself
 - 🎓 Work ethics: **We work to find solutions, not problems.**
 - 🕹️ Video games: AOE2, Stardew Valley and an upcoming title "Becastled"
-- 🎬 Shows: B99 (❤️ the humor) and Arcane (❤️ the story and visuals)
+- 🎬 Shows: B99 (love the humor) and Arcane (love the story & visuals)
 
 #### Connect with me: &nbsp; [<img alt="LinkedIn: Francis Yip" height="20px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/francisyip98/)
 
