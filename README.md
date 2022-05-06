@@ -7,9 +7,7 @@
 - 🎬 Shows: B99 and Arcane 
 
 **Connect with me:**
-<a href="https:www.linedin.com/in/francisyip98/">
-  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png">
-</a>
+[<img alt="LinkedIn: Francis Yip" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/francisyip98/)
 
 **Language and Tools:** 
 <code><img height="20" src="https://code.visualstudio.com/assets/images/code-stable.png"></code>
