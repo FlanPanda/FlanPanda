@@ -13,7 +13,7 @@
 - 🕹️ Video games: AOE2, Stardew Valley and an upcoming title "Becastled"
 - 🎬 Shows: B99 (love the humor) and Arcane (love the story & visuals)
 
-#### 🔗 Connect with me: &nbsp; [<img alt="LinkedIn: Francis Yip" height="25px" align="center" target="_blank" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/francisyip98/)
+#### 🔗 Connect with me: &nbsp; [<img alt="LinkedIn: Francis Yip" height="25px" align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/francisyip98/?target=_blank)
 
 #### 🛠️ Language and Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="25" height="25"/>&nbsp;
