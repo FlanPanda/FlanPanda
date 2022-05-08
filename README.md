@@ -2,16 +2,16 @@
 
 ## I'm aspired to be a Frontend Web Developer!
 - 💻 I’m currently learning to develop my first site **Frankly Speaking** with basic HTML, CSS and Javascript
-- ✨ I hope to document my process of learning to code, and inspire others to try
+- ✨ I hope to document my process of learning to code, and inspire others to try.
 
 ## Why Learn to Code when there are Visual Softwares to design & launch webpages easily?
 - 🏋️‍♂️ I like a challenge. Either I go all the way, or I don't do it at all. 
-- 📚 Coding helps me better understand semantics and structures, which ultimately makes me a more practical designer
+- 📚 Coding helps me better understand semantics and structures, which ultimately makes me a more practical designer.
 
 ## About myself
 - 🎓 Work ethics: **We work to create solutions, not point out problems.**
-- 🕹️ Video games: AOE2, Stardew Valley and an upcoming title "Becastled"
-- 🎬 Shows: B99 (love the humor) and Arcane (love the story & visuals)
+- 🕹️ Video games: AOE2, Stardew Valley and an upcoming title "Becastled".
+- 🎬 Shows: B99 (love the humor) and Arcane (love the story & visuals)...
 
 #### 🔗 Connect with me: &nbsp; [<img alt="LinkedIn: Francis Yip" height="25px" align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/francisyip98/)
 
