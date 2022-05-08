@@ -9,7 +9,7 @@
 - 📚 Coding helps me better understand semantics and structures, which ultimately makes me a more practical designer
 
 ## About myself
-- 🎓 Work ethics: **We work to find solutions, not problems.**
+- 🎓 Work ethics: **We work to create solutions, not point out problems.**
 - 🕹️ Video games: AOE2, Stardew Valley and an upcoming title "Becastled"
 - 🎬 Shows: B99 (love the humor) and Arcane (love the story & visuals)
 
