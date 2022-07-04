@@ -21,8 +21,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="25" height="25"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="25" height="25"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="Adobe Illustrator" width="25" height="25"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="25" height="25"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="25" height="25"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="25" height="25"/>
 
 <!---
 FlanPanda/FlanPanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
